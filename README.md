@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mandar Jadhav</h1>
+ <h1 align="center">Hi 👋, I'm Mandar Jadhav</h1>
 <h3 align="center">A passionate Frontend Developer Specializing in Responsive Web Applications and IoT solutions</h3>
 
 - 🔭 I’m currently working on [Three JS Portfolio](https://3d-portfolio-zeta-ten.vercel.app/)
 
 - 🌱 I’m currently learning **Next Js, Flutter, Swift**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-zeta-flax.vercel.app/](https://personal-portfolio-zeta-flax.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mandar.life)
 
 - 📫 How to reach me **jadhavmandar44@gmail.com**
 
